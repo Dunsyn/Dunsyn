@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dunsyn
-- 👀 I’m interested in Analytics, Buisness Intelligence & Digital Transfromation
+- 👀 I’m interested in Analytics, Business Intelligence & Digital Transfromation
 - 🌱 I’m currently learning R, SQL, Power BI & Tableau
 - 💞️ I’m looking to collaborate on Projects relating to Data,Products,Operations & Techology
 - 📫 How to reach me dunsinomosanya@gmail.com

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Debby
+- 👋 Hi, I’m Oluwadunsin by name foundly called Debby
 - 👀 I’m interested in Analytics, Business Intelligence & Digital Transfromation
-- 🌱 I’m currently learning R, SQL, Power BI & Tableau
-- 💞️ I’m looking to collaborate on Projects relating to Data,Products,Operations & Techology
+- 🌱 I’m proficient in R, SQL, Power BI & Tableau
+- 💞️ I’m looking to collaborate on Projects relating to Data,Business process, Operations & Techology
 - 📫 How to reach me dunsinomosanya@gmail.com
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: I love exploring new skills, places & Photography
